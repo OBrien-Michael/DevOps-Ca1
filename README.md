@@ -1,0 +1,1 @@
+[![Java CI with Maven](https://github.com/OBrien-Michael/DevOps-Ca1/actions/workflows/mavenBuildTestPackage.yml/badge.svg)](https://github.com/OBrien-Michael/DevOps-Ca1/actions/workflows/mavenBuildTestPackage.yml)
